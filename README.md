@@ -4,8 +4,8 @@
 
 ### Author: Mohammad Za'areer
 
-- [tests report](https://github.com/codefellows/code-401-javascript-example-lab/actions)
-- [front-end](https://code-401-js-lab-example.herokuapp.com/status)
+- [tests report](https://github.com/401-JS-Mohammad-Zaareer/api-server/actions)
+- [front-end](https://api-server-mongodb.herokuapp.com/)
 
 ### Setup
 
